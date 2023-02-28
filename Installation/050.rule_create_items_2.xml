@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="Checklist MODULE_admin" description="" name="rule_create_items.xml" site="https&#x3a;&#x2f;&#x2f;dev.onevizion.com" ts="" ><RULES>
+<?xml version="1.0" encoding="UTF-8"?><COMPONENTS author="Checklist MODULE_admin" description="" name="050.rule_create_items_2.xml" site="https&#x3a;&#x2f;&#x2f;dev.onevizion.com" ts="" ><RULES>
  <RULES_ITEM>
   <IS_ASYNC>0</IS_ASYNC>
   <IS_ENABLED>1</IS_ENABLED>
@@ -123,7 +123,17 @@ end;</SQL_TEXT>
   <PROGRAM_ID>1002777</PROGRAM_ID>
   <RULE_TYPE_ID>18</RULE_TYPE_ID>
   <RULE_TOWER_GROUPS/>
-  <COMPONENT_PACKAGES/>
+  <COMPONENT_PACKAGES>
+   <T_BPL_COMP_PKG>
+    <COMPONENT_ID>4</COMPONENT_ID>
+    <OBJECT_ID>100009375</OBJECT_ID>
+    <COMPONENTS_PACKAGE_ID>101703</COMPONENTS_PACKAGE_ID>
+    <NAME>VP - Checklist Management</NAME>
+    <PROGRAM_ID>1002777</PROGRAM_ID>
+    <BPD_ITEMS/>
+    <IS_LOCKED>0</IS_LOCKED>
+   </T_BPL_COMP_PKG>
+  </COMPONENT_PACKAGES>
   <CONFIG_FIELD_IDNUMS/>
   <TASK_DATE_IDNUMS/>
   <TASK_IDNUMS/>
